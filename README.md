@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <p>I'm <strong>Bassit</strong>, a web developer with so much love for React. I love coding but whenever I'm not doing that, I'm either playing video games, working out or watching movies</p>
 
-### <h2>MY SYSTEM</h2>
+## MY SYSTEM
 <hr>
 ❤️ Pursue passions, not paychecks.<br/>
 😍 Be Lovable.<br/>
@@ -28,14 +28,13 @@ Here are some ideas to get you started:
 💡 Invest in ideas that matter.<br/>
 🌚 Be crazy and dumb.<br/>
 
-### <h2>Goals</h2>
-<hr>
-* Master ReactJs in the first half of 2020 ✅<br/>
-* Land my first junior dev job.<br/>
-* Be a well paid Geek.<br/>
+## Goals
 
-### <h2>Get in touch</h2>
-<hr>
+*  Master ReactJs in the first half of 2020 ✅<br/>
+*  Land my first junior dev job.<br/>
+*  Be a well paid Geek.<br/>
+
+## Get in touch
 * [Twitter](https://twitter.com/breellz) <br/>
 * [Personal site](https://breellz.me)
 
