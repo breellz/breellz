@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 
 ## Get in touch
 * [Twitter](https://twitter.com/breellz) <br/>
-* [Personal site](https://breellz.me)
+* [Personal site](https://breellz.me)<br/>
+* [Facebook](https://fb.com/breellz)<br/>
+* [stackoverflow](https://stackoverflow.com/users/13081082/breellz)<br/>
+* [LinkedIn](https://linkedin.com/in/bassit-owolabi-55751b15a)<br/>
+* [Instagram](https://instagram.com/breellzfit)<br/>
 
 
 
