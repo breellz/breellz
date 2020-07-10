@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <p>I'm <strong>Bassit</strong>, a web developer with so much love for React. I love coding but whenever I'm not doing that, I'm either playing video games, working out or watching movies</p>
 
+![Breellz's github stats](https://github-readme-stats.vercel.app/api?username=breellz)
+
 ## MY SYSTEM
 <hr>
 ❤️ Pursue passions, not paychecks.<br/>
