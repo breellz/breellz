@@ -48,3 +48,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/breellz/QuizApp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=QuizApp" />
 </a>
+<a href="https://github.com/breellz/covid19-today">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=covid19-today" />
+</a>
