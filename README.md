@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 * [Instagram](https://instagram.com/breellzfit)<br/>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=veepie)](https://github.com/breellz/veepie)
+<a href="https://github.com/breellz/QuizApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=QuizApp" />
+</a>
