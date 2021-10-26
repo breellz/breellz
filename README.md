@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!-- ![](https://img.shields.io/github/last-commit/breellz/breellz?&style=flat-square)  -->
+![](https://img.shields.io/github/followers/breellz?label=Followers&style=flat-square) 
+![Profile views](https://gpvc.arturio.dev/breellz)
 ### Hi there 👋
 <p>I'm <strong>Bassit</strong>, a web developer with so much love for Node. I love coding but whenever I'm not doing that, I'm either playing video games, working out or watching movies</p>
 
