@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 * [Instagram](https://instagram.com/breellzfit)<br/>
 
 
-<a href="https://github.com/breellz/QuizApp">
+<a href="https://github.com/breellz/breellz-box">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=QuizApp" />
 </a>
 <a href="https://github.com/breellz/covid19-today">
