@@ -49,20 +49,20 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/breellz/breellz-box">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=breellz-box" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=breellz-box&show_owner=true" />
 </a>
 
 
 <a href="https://github.com/breellz/C-Instagram">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=C-Instagram" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=C-Instagram&show_owner=true" />
 </a>
 
 
 <a href="https://github.com/breellz/e-commerce-api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=e-commerce-api" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=e-commerce-api&show_owner=true" />
 </a>
 
 
 <a href="https://github.com/breellz/task-manager-api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=task-manager-api" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=task-manager-api&show_owner=true" />
 </a>
