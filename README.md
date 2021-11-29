@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 💡 Invest in ideas that matter.<br/>
 🌚 Be crazy and dumb.<br/>
 
-## Goals
 
-*  Master ReactJs in the first half of 2020 ✅<br/>
-*  Be a well paid Geek.<br/>
 
 ## Get in touch
 * [Twitter](https://twitter.com/breellz) <br/>
@@ -56,4 +53,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/breellz/C-Instagram">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=C-Instagram" />
+</a>
+<a href="https://github.com/breellz/e-commerce-api">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=e-commerce-api" />
+</a>
+<a href="https://github.com/breellz/task-manager-api">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=task-manager-api" />
 </a>
