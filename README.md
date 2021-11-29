@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/breellz/task-manager-api">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=task-manager-api&show_owner=tru" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=breellz&repo=task-manager-api&show_owner=true" />
 </a>
