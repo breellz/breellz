@@ -5,14 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
@@ -20,8 +13,17 @@ Here are some ideas to get you started:
 <!-- ![](https://img.shields.io/github/last-commit/breellz/breellz?&style=flat-square)  -->
 ![](https://img.shields.io/github/followers/breellz?label=Followers&style=flat-square) 
 ![Profile views](https://gpvc.arturio.dev/breellz)
-### Hi there 👋
-<p>I'm <strong>Bassit Owolabi</strong>, a web developer with so much love for JavaScript. I love coding but whenever I'm not doing that, I'm either playing video games, working out or watching movies</p>
+### Hi there 👋I'm <strong>Bassit Owolabi</strong>
+- 🔭 I’m currently working on ... landing my dream job
+- 🌱 I’m currently learning ... GraphQL
+- 👯 I’m looking to collaborate on ... interesting projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [Here](https://bassitowolabi.tech)
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Breellz's github stats](https://github-readme-stats.vercel.app/api?username=breellz&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breellz&layout=compact)](https://github.com/breellz)
