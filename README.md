@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Breellz's github stats](httpsg://github-readme-stats.vercel.app/api?username=breellz&show_icons=true&theme=merko)
+![Breellz's github stats](https://github-readme-stats.vercel.app/api?username=breellz&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breellz&layout=compact)](https://github.com/breellz)
 
 ## MY SYSTEM
