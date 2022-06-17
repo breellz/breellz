@@ -8,16 +8,13 @@ Here are some ideas to get you started:
 
 -->
 
+[![](https://visitcount.itsvg.in/api?id=breellz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- ![](https://img.shields.io/github/last-commit/breellz/breellz?&style=flat-square)  -->
-![](https://img.shields.io/github/followers/breellz?label=Followers&style=flat-square) 
-![Profile views](https://gpvc.arturio.dev/breellz)
-### Hi there 👋I'm <strong>Bassit Owolabi</strong>
+# 💫About Me :
 - 🔭 I’m currently working on ... landing my dream job
-- 🌱 I’m currently learning ... GraphQL
+- 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... interesting projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... Typescript
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Here](https://bassitowolabi.tech)
 - 😄 Pronouns: ... He/Him/His
@@ -25,8 +22,22 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Breellz's github stats](https://github-readme-stats.vercel.app/api?username=breellz&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breellz&layout=compact)](https://github.com/breellz)
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/breellz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/breellzfit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bassit-owolabi-55751b15a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@barseetbrown) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/breellz) 
+
+## GET IN TOUCH
+* [Personal site](https://bassitowolabi.tech)<br/>
+
+# 💻Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=breellz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=breellz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=breellz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=breellz&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## MY SYSTEM
 <hr>
@@ -38,16 +49,6 @@ Here are some ideas to get you started:
 🌱 Priotize the customer.<br/>
 💡 Invest in ideas that matter.<br/>
 🌚 Be crazy and dumb.<br/>
-
-
-
-## Get in touch
-* [Twitter](https://twitter.com/breellz) <br/>
-* [Personal site](https://breellz.me)<br/>
-* [Facebook](https://fb.com/breellz)<br/>
-* [stackoverflow](https://stackoverflow.com/users/13081082/breellz)<br/>
-* [LinkedIn](https://linkedin.com/in/bassit-owolabi-55751b15a)<br/>
-* [Instagram](https://instagram.com/breellzfit)<br/>
 
 
 <a href="https://github.com/breellz/breellz-box">
