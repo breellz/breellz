@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=breellz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=breellz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=breellz&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
+## 🏆Medium Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/4" alt="Recent Article 4"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/6" alt="Recent Article 6"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@barseetbrown/7" alt="Recent Article 7"> 
 
 ## MY SYSTEM
 <hr>
