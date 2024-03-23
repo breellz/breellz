@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 
 # 💫About Me :
 - 🔭 I’m currently working on ... landing my dream job
-- 🌱 I’m currently learning ... Typescript
+- 🌱 I’m currently learning ... solidity
 - 👯 I’m looking to collaborate on ... interesting projects
-- 🤔 I’m looking for help with ... Typescript
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Here](https://bassitowolabi.tech)
 - 😄 Pronouns: ... He/Him/His
